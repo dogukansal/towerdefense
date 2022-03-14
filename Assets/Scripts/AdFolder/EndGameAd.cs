@@ -15,9 +15,9 @@ public class EndGameAd : MonoBehaviour
     {
         string adUnitId;
 #if UNITY_ANDROID
-        adUnitId = "ca-app-pub-6469014985923539/2144657891"; //buraya kendi reklam kodu yazýlacak
+        adUnitId = "ca-app-pub-/"; //buraya kendi reklam kodu yazÃ½lacak
 #elif UNITY_IPHONE
-            adUnitId = "ca-app-pub-3940256099942544/1712485313";
+            adUnitId = "ca-app-pub-/";
 #else
             adUnitId = "unexpected_platform";
 #endif
@@ -27,15 +27,15 @@ public class EndGameAd : MonoBehaviour
 
 
         // Called when an ad request failed to load.
-        this.rewardedAd.OnAdFailedToLoad += HandleRewardedAdFailedToLoad; //reklam çaðýrma baþarýsýz
+        this.rewardedAd.OnAdFailedToLoad += HandleRewardedAdFailedToLoad; //reklam Ã§aÃ°Ã½rma baÃ¾arÃ½sÃ½z
                                                                           // Called when an ad is shown.
 
         // Called when an ad request failed to show.
-        this.rewardedAd.OnAdFailedToShow += HandleRewardedAdFailedToShow; //gösterilirken hata olmasý
+        this.rewardedAd.OnAdFailedToShow += HandleRewardedAdFailedToShow; //gÃ¶sterilirken hata olmasÃ½
         // Called when the user should be rewarded for interacting with the ad.
-        this.rewardedAd.OnUserEarnedReward += HandleUserEarnedReward; //reklamý erken kapatma
+        this.rewardedAd.OnUserEarnedReward += HandleUserEarnedReward; //reklamÃ½ erken kapatma
         // Called when the ad is closed.
-        this.rewardedAd.OnAdClosed += HandleRewardedAdClosed; //baþarýlý
+        this.rewardedAd.OnAdClosed += HandleRewardedAdClosed; //baÃ¾arÃ½lÃ½
 
 
         AdRequest request = new AdRequest.Builder().Build();
@@ -45,9 +45,9 @@ public class EndGameAd : MonoBehaviour
     public void CreateAndLoadRewardedAd()
     {
 #if UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/5224354917";
+        string adUnitId = "ca-app-pub-/";
 #elif UNITY_IPHONE
-            string adUnitId = "ca-app-pub-3940256099942544/1712485313";
+            string adUnitId = "ca-app-pub-/";
 #else
             string adUnitId = "unexpected_platform";
 #endif
