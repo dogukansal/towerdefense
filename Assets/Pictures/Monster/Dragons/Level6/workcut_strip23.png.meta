@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 98e1d5b2caa3dc74288739c8577e4b94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3240731796559231021
+    second: dragonwalk1
+  - first:
+      213: -8172084801262651524
+    second: dragonwalk2
+  - first:
+      213: -6568981713475918886
+    second: dragonwalk3
+  - first:
+      213: -6865883116552294875
+    second: dragonwalk4
+  - first:
+      213: -2954871870982368589
+    second: dragonwalk8
+  - first:
+      213: -29238746928468815
+    second: dragonwalk9
+  - first:
+      213: -4316805023164415920
+    second: dragonwalk10
+  - first:
+      213: -874645692286385233
+    second: dragonwalk11
+  - first:
+      213: 2847476416895627267
+    second: dragonwalk12
+  - first:
+      213: 3924709215584431151
+    second: dragonwalk13
+  - first:
+      213: -6637666219199011295
+    second: dragonwalk14
+  - first:
+      213: -5767548040802944224
+    second: dragonwalk15
+  - first:
+      213: -2922932579709039577
+    second: dragonwalk16
+  - first:
+      213: -6475646939575752085
+    second: dragonwalk17
+  - first:
+      213: 2477766449427177532
+    second: workcut_strip23_14
+  - first:
+      213: -1567729341805095800
+    second: dragonwalk21
+  - first:
+      213: 4791721348899156814
+    second: dragonwalk22
+  - first:
+      213: 6719073500584626037
+    second: dragonwalk23
+  - first:
+      213: 7695028874693024931
+    second: dragonwalk5
+  - first:
+      213: 5171611020384487982
+    second: dragonwalk6
+  - first:
+      213: -3264320205760847691
+    second: dragonwalk7
+  - first:
+      213: -4261440817447932952
+    second: workcut_strip23_21
+  - first:
+      213: -881636132671386264
+    second: dragonwalk18
+  - first:
+      213: -6971580477144111312
+    second: dragonwalk19
+  - first:
+      213: -9175175506720238292
+    second: dragonwalk20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonwalk1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f93a166469fc20800000000000000
+      internalID: 3240731796559231021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77fe5abb2ce69e80800000000000000
+      internalID: -8172084801262651524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32b308fe946d4a0800000000000000
+      internalID: -6568981713475918886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6c88beab77b0a0800000000000000
+      internalID: -6865883116552294875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk8
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25d4d50bf2ef6d0800000000000000
+      internalID: -2954871870982368589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk9
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca6abb38f189ff0800000000000000
+      internalID: -29238746928468815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk10
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c9ade3b0a714c0800000000000000
+      internalID: -4316805023164415920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk11
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c1fe7062acd3f0800000000000000
+      internalID: -874645692286385233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk12
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300bd5fe6b4448720800000000000000
+      internalID: 2847476416895627267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk13
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cac91dc3e577630800000000000000
+      internalID: 3924709215584431151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk14
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266803ddb542e3a0800000000000000
+      internalID: -6637666219199011295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk15
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb0fa5d9d85ffa0800000000000000
+      internalID: -5767548040802944224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk16
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc60c1e48af67d0800000000000000
+      internalID: -2922932579709039577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk17
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aedbbfa61e126a0800000000000000
+      internalID: -6475646939575752085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk21
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88410c5487e4e3ae0800000000000000
+      internalID: -1567729341805095800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk22
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433acfdd2d9f7240800000000000000
+      internalID: 4791721348899156814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk23
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5774616efb1fe3d50800000000000000
+      internalID: 6719073500584626037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9374ddfb3aca60800000000000000
+      internalID: 7695028874693024931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk6
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a438a92d045c740800000000000000
+      internalID: 5171611020384487982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk7
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ae76611ec2b2d0800000000000000
+      internalID: -3264320205760847691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk18
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d09f2cb9cc3c3f0800000000000000
+      internalID: -881636132671386264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e6c83e78ff3f90800000000000000
+      internalID: -6971580477144111312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonwalk20
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 17
+        width: 212
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2553122d7a3ba080800000000000000
+      internalID: -9175175506720238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
